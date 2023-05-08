@@ -10,5 +10,5 @@
 3) При нажатии на название прибора в таблице отображается страница analytics.html с данными о использовании данного прибора
 4) Нажав на стрелочку у пункта "Работа прибора", отображаются кнопки с возможность выбора периода использования прибора
 
-В png файлах отображены скрины с применением Perfect Pixel. [Скрин главной страницы](https://llladno.github.io/biocadTask/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0_PixcelPerfect.png)
+В png файлах отображены скрины с применением Perfect Pixel. [Скрин главной страницы](https://llladno.github.io/biocadTask/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0_PixcelPerfect.png)/
 [Скрин аналитики](https://llladno.github.io/biocadTask/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_PixcelPerfect.png)
